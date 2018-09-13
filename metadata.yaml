@@ -1,0 +1,29 @@
+_repo: Gutenberg-and-the-Art-of-Printing_51358
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pearson, Emily C. (Emily Clemens)
+    aliases:
+    - Pearson, Emily Clemens
+    - Clemons, Emily C. (Emily Catherine)
+    - Pierson, Emily Catharine
+    birthdate: 1818
+    deathdate: 1900
+    gutenberg_agent_id: '46376'
+    url: http://www.gutenberg.org/2009/agents/46376
+description: ''
+gutenberg_issued: '2016-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51358'
+  lccn: 06011209
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Gutenberg, Johann, 1397?-1468'
+- GITenberg
+title: Gutenberg, and the Art of Printing
+url: http://www.gutenberg.org/ebooks/51358
